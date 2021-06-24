@@ -1,1 +1,2 @@
-*.C++ linguistic-detectable=True
+*.HTML linguistic-detectable=True
+*.CSS linguistic-detectable=True
